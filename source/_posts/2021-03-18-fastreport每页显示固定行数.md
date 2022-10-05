@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      fastreport每页显示固定行数
-subtitle:   多余行移动到下一页
+excerpt:   多余行移动到下一页
 date:       2021-3-18
 author:     王帅
 catalog: true

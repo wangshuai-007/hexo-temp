@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      devexpress如何在PropertyGridControl中直接编辑集合成员
-subtitle:   在 devexpress PropertyGridControl中展开(expand)集合(collection)成员(item)
+excerpt:   在 devexpress PropertyGridControl中展开(expand)集合(collection)成员(item)
 date:       2021-9-26
 author:     王帅
 catalog: true

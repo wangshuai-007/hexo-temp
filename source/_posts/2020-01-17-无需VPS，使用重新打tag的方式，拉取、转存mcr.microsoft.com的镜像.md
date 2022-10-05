@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      无需VPS,使用重新打tag的方式 拉取、转存mcr.microsoft.com的镜像
-subtitle:   使用Azure Devops的pipelines功能一键ReTag转存
+excerpt:   使用Azure Devops的pipelines功能一键ReTag转存
 date:       2020-1-17
 author:     王帅
 catalog: true

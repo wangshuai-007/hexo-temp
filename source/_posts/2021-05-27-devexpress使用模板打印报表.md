@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      devexpress使用模板打印报表
-subtitle:   使用XtraReports从repx模板文件打印报表
+excerpt:   使用XtraReports从repx模板文件打印报表
 date:       2021-5-27
 author:     王帅
 catalog: true

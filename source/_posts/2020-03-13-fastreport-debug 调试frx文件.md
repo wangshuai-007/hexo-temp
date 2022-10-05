@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      fastreport debug 调试frx文件
-subtitle:   使用visual studio 跟踪frx流程查看frx变量
+excerpt:   使用visual studio 跟踪frx流程查看frx变量
 date:       2020-3-13
 author:     王帅
 catalog: true

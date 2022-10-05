@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      devexpress如何隐藏PropertyGridControl中的编辑器(Editor)
-subtitle:   hide row value cell(editor) in devexpress PropertyGridControl(VerticalGrid)
+excerpt:   hide row value cell(editor) in devexpress PropertyGridControl(VerticalGrid)
 date:       2021-9-29
 author:     王帅
 catalog: true

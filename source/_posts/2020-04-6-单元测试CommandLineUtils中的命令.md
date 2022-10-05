@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      单元测试CommandLineUtils中的命令
-subtitle:   UnitTest the command of CommandLineUtils
+excerpt:   UnitTest the command of CommandLineUtils
 date:       2020-4-6
 author:     王帅
 catalog: true

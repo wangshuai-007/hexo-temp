@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      如何解决devextreme_angular错误TypeError_Cannot_assign_to_read_only_property_name_of_function_data
-subtitle:   fix devextreme TypeError  Cannot assign to read only property 'name' of function data
+excerpt:   fix devextreme TypeError  Cannot assign to read only property 'name' of function data
 date:       2022-7-3
 author:     王帅
 catalog: true
