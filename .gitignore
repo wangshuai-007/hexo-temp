@@ -6,3 +6,7 @@ yarn.lock
 package-lock.json
 node_modules/
 public
+
+/source/_posts/2022-05-7-octopus_deploy_使用XML_配置变量功能设置nlog日志.md
+/source/_posts/2020-09-05-通过路由器监控家中是否停电.md
+/source/_posts/文章待写目录.md
