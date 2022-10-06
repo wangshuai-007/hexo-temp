@@ -6,7 +6,7 @@
 title: 王帅的博客
 subtitle: '王帅的个人博客'
 description: ''
-keywords:
+keywords: .NET C#
 author: Wang Shuai
 language: zh-CN
 timezone: ''
@@ -36,6 +36,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+    - custom_js/**
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -109,4 +110,8 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/wangshuai-007/Hexo-Blog.git
+  branch: main
+  token: ghp_3KakcaPHerunNRyMerofcFd9pblU282FSbsY
+
