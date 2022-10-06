@@ -3,6 +3,7 @@ layout:     post
 title:      devexpress如何隐藏PropertyGridControl中的行
 excerpt:   hide row in devexpress PropertyGridControl(VerticalGrid)
 date:       2021-9-27
+updated:       2021-9-27
 author:     王帅
 catalog: true
 tags:

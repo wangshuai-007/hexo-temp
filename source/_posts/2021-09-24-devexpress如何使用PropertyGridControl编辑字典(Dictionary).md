@@ -3,6 +3,7 @@ layout:     post
 title:      devexpress如何使用PropertyGridControl编辑字典(Dictionary)
 excerpt:   add/remove dictionary item in devexpress PropertyGridControl
 date:       2021-9-24
+updated:       2021-9-24
 author:     王帅
 catalog: true
 tags:

@@ -3,6 +3,7 @@ layout:     post
 title:      使用PowerShell查看使用RDP登录到远程服务器的客户端IP
 excerpt:   Get the login ip of RDP client
 date:       2020-6-26
+updated:       2020-6-26
 author:     王帅
 catalog: true
 tags:

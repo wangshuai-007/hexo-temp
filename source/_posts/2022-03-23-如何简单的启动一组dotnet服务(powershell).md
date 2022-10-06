@@ -3,6 +3,7 @@ layout:     post
 title:      如何简单的启动一组dotnet服务,powershell?
 excerpt:   start a group dotnet server with powershell or tye
 date:       2022-3-23
+updated:       2022-3-23
 author:     王帅
 catalog: true
 tags:

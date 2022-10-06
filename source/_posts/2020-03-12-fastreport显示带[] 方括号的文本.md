@@ -3,6 +3,7 @@ layout:     post
 title:      fastreport显示带[] 方括号的文本或表达式
 excerpt:   修改Brackets属性改变变量标识符
 date:       2020-3-12
+updated:       2020-3-12
 author:     王帅
 catalog: true
 tags:

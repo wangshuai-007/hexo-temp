@@ -3,6 +3,7 @@ layout:     post
 title:      devexpress使用设计器编辑报表模板
 excerpt:   ReportDesigner.exe的自实现
 date:       2021-4-16
+updated:       2021-4-16
 author:     王帅
 catalog: true
 tags:

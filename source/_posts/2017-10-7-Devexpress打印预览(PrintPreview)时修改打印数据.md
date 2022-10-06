@@ -3,6 +3,7 @@ layout:     post
 title:      Devexpress打印预览(PrintPreview)时修改打印数据
 excerpt:   所见即所得的打印数据快速修改方法
 date:       2017-10-7
+updated:       2017-10-7
 author:     王帅
 catalog: true
 tags:

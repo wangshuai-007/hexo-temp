@@ -3,6 +3,7 @@ layout:     post
 title:      Devexpress自定义导出(Export)选定行数据到Excel简易版
 excerpt:   使用自带GridView.ExportToXls方法快速导出
 date:       2017-09-19
+updated:       2017-09-19
 author:     王帅
 catalog: true
 tags:

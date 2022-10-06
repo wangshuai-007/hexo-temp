@@ -2,6 +2,7 @@
 layout:     post
 title:      博客从Jekyll迁移到Hexo
 date:       2022-10-05
+updated:       2022-10-06 21:06:12
 author:     王帅
 catalog: true
 tags:
@@ -45,6 +46,8 @@ Jekyll和Hexo都是静态博客网站，文章迁移很方便；将**_posts**目
 #### 4.其它调整
 
 * Jekyll和Hexo的文章生成方式略有不同，之前文章中是有`subtitle`显示在`title`之下的，但[Fluid主题](https://github.com/fluid-dev/hexo-theme-fluid)默认优先显示`subtitle`于是需要把所有文章`subtitle`去掉(或者改成`excerpt`标签)
+
+* 由于设置了最近修改时间的显示,参考此文:[解决Hexo文章更新时间问题](https://sqiang.net/post/2792803495.html) 添加`updated`字段到`Front-matter`中
 
 * 参考[Fluid -4- 页脚增加网站运行时长](https://www.zywvvd.com/notes/hexo/theme/fluid/fluid-run-how-long/fluid-run-how-long/)为网站添加运行时间
 * 重新在各搜索引擎上提交`sitemap.xml`

@@ -3,6 +3,7 @@ layout:     post
 title:      fastreport 查询系统变量总页数 Report.GetVariableValue("TotalPages")总是返回1
 excerpt:   Report.Engine.CurPage的值正常而TotalPages总是1
 date:       2020-3-16
+updated:       2020-3-16
 author:     王帅
 catalog: true
 tags:
