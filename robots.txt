@@ -2,11 +2,7 @@
 # www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
 
 User-agent: *
-Allow: /
-Allow: /categories/
-Allow: /tags/
-Allow: /archives/
-Allow: /about/
+
 
 Disallow: /vendors/
 Disallow: /js/
